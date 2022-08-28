@@ -1,0 +1,15 @@
+C:\Users\Yasin\Desktop\Projelerim\Denemeler\AlgoritmaSoruları3\AlgoritmaSoruları3\bin\Debug\net6.0\AlgoritmaSoruları3.exe
+C:\Users\Yasin\Desktop\Projelerim\Denemeler\AlgoritmaSoruları3\AlgoritmaSoruları3\bin\Debug\net6.0\AlgoritmaSoruları3.deps.json
+C:\Users\Yasin\Desktop\Projelerim\Denemeler\AlgoritmaSoruları3\AlgoritmaSoruları3\bin\Debug\net6.0\AlgoritmaSoruları3.runtimeconfig.json
+C:\Users\Yasin\Desktop\Projelerim\Denemeler\AlgoritmaSoruları3\AlgoritmaSoruları3\bin\Debug\net6.0\AlgoritmaSoruları3.dll
+C:\Users\Yasin\Desktop\Projelerim\Denemeler\AlgoritmaSoruları3\AlgoritmaSoruları3\bin\Debug\net6.0\AlgoritmaSoruları3.pdb
+C:\Users\Yasin\Desktop\Projelerim\Denemeler\AlgoritmaSoruları3\AlgoritmaSoruları3\obj\Debug\net6.0\AlgoritmaSoruları3.csproj.AssemblyReference.cache
+C:\Users\Yasin\Desktop\Projelerim\Denemeler\AlgoritmaSoruları3\AlgoritmaSoruları3\obj\Debug\net6.0\AlgoritmaSoruları3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\Desktop\Projelerim\Denemeler\AlgoritmaSoruları3\AlgoritmaSoruları3\obj\Debug\net6.0\AlgoritmaSoruları3.AssemblyInfoInputs.cache
+C:\Users\Yasin\Desktop\Projelerim\Denemeler\AlgoritmaSoruları3\AlgoritmaSoruları3\obj\Debug\net6.0\AlgoritmaSoruları3.AssemblyInfo.cs
+C:\Users\Yasin\Desktop\Projelerim\Denemeler\AlgoritmaSoruları3\AlgoritmaSoruları3\obj\Debug\net6.0\AlgoritmaSoruları3.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\Projelerim\Denemeler\AlgoritmaSoruları3\AlgoritmaSoruları3\obj\Debug\net6.0\AlgoritmaSoruları3.dll
+C:\Users\Yasin\Desktop\Projelerim\Denemeler\AlgoritmaSoruları3\AlgoritmaSoruları3\obj\Debug\net6.0\refint\AlgoritmaSoruları3.dll
+C:\Users\Yasin\Desktop\Projelerim\Denemeler\AlgoritmaSoruları3\AlgoritmaSoruları3\obj\Debug\net6.0\AlgoritmaSoruları3.pdb
+C:\Users\Yasin\Desktop\Projelerim\Denemeler\AlgoritmaSoruları3\AlgoritmaSoruları3\obj\Debug\net6.0\AlgoritmaSoruları3.genruntimeconfig.cache
+C:\Users\Yasin\Desktop\Projelerim\Denemeler\AlgoritmaSoruları3\AlgoritmaSoruları3\obj\Debug\net6.0\ref\AlgoritmaSoruları3.dll
